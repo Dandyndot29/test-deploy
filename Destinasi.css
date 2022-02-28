@@ -22,12 +22,15 @@
         padding: 0.5% 10%;  
         font-size: 18px;
     }
+
+    .body {
+        background-image: linear-gradient(to right,#4cd1d1, #ffb88c);
+    
+    }
     
 /* Card */
-.container {
-    background-image: linear-gradient(to right,#4cd1d1, #ffb88c);
+
     
-}
 
    .container  h1{
         text-align: center;
@@ -79,6 +82,9 @@ form {
 .ms-2 {
     color: #ffffff;
 }
+
+
+/* Footer */
 
 
 
